@@ -31,8 +31,7 @@ avec vérification de l'accessibilité du site web.
 - Vérifier le retour d'accès au service Apache2.
 
 ## 🏗️ Architecture
-
-![Architecture du projet](Architecture du projet.png)
+![Architecture du projet](architecture.png)
 
 ## 🛠️ Technologies utilisées
 
