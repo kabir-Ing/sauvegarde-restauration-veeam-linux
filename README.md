@@ -32,7 +32,7 @@ avec vérification de l'accessibilité du site web.
 
 ## 🏗️ Architecture
 
-![Architecture du projet](architecture.png)
+![Architecture du projet](Architecture du projet.png)
 
 ## 🛠️ Technologies utilisées
 
